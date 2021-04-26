@@ -1,1 +1,1 @@
-# Music-Bot
+# MusicBot.github.io
